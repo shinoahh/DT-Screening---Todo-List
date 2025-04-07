@@ -1,1 +1,3 @@
 # DT-Screening---Todo-List
+
+first is i create a seperated file for js, css and html second is to check if they are linked to each other the next part was creating a plain input for title and content and after that is aplying the logic in js, in this part i consume almost 1 and half hour since i am not familliar to appendchild and it make me confuse addionally creating element and adding style name in js is confusing too, i tried to search on google and i find the answer but the struggle didn't stop there, when i finish the logic part in js i go to the css file to finalized the design and this consume 1 hour i was confused how js style work in css, compared to html to css which is im familliar with, the js to css is a bit confusing thats why i consume a lot of time
